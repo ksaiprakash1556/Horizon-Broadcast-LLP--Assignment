@@ -1,0 +1,25 @@
+.settings-container {
+    margin: 20px;
+    text-align:center;
+    background-color:lightgrey;
+    padding:20px;
+    margin:0;
+  }
+  
+  .main-heading{
+    color:purple;
+    font-family:"Bree-Serif";
+    font-size:38px;
+    font-weight:bold;
+  }
+  .label-element{
+    font-size: 20px;
+    font-family:"Bree-Serif";
+    font-weight:bold;
+  }
+  #language {
+    padding: 5px;
+    font-size: 18px;
+    font-family:"Bree-Serif";
+  }
+  
